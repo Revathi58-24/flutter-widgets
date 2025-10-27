@@ -40,13 +40,8 @@ Add these to your pubspec.yaml:
 
 dependencies:
   flutter:
-
-  
     sdk: flutter
+  fl_chart: ^0.65.0
+  table_calendar: ^3.1.2
 
-    
-  fl_chart: ^0.68.0
-
-  
-  table_calendar: ^3.0.8
 
